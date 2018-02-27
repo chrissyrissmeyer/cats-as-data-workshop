@@ -1,0 +1,3 @@
+1. get rid of caps
+2. standardize dates
+3. standardize dimensions
