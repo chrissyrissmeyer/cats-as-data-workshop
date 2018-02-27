@@ -10,4 +10,5 @@ Cleanup plan:
 - get rid of all caps
 - standardize dates
 - standardize dimensions
+- access-permissions
 - add rights statements
